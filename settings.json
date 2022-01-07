@@ -1,0 +1,9 @@
+{
+    "name": "wen",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-administrator_role": true
+    }
+}
